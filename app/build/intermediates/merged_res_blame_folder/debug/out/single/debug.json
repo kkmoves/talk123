@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_lived_2.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_lived_2.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw240dp_osd.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw240dp\\osd.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw240dp_osd_face.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw240dp\\osd_face.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_passwd.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\setup_btn_passwd.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_div.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\setup_div.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw240dp-port_osd_sid.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw240dp-port\\osd_sid.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_setup.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\main_btn_setup.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_lived_1.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_lived_1.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_ok.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\setup_btn_ok.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sub_bkg.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sub_bkg.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_bkg_2.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_bkg_2.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_logger_btn_up.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\logger_btn_up.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_text_bkg.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\main_text_bkg.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_logger_div.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\logger_div.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sub_bkg2.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sub_bkg2.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_bkg.jpg.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\main_bkg.jpg"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_network2.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\setup_btn_network2.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_talk.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\talk.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw480dp_osd_face.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw480dp\\osd_face.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw240dp_osd_sid.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw240dp\\osd_sid.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_osd_result_bottom.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_osd_result_bottom.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_talk_bkg.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\talk_bkg.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_osd.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_osd.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_police.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\police.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw480dp_osd_sid.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw480dp\\osd_sid.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_logger_btn_down.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\logger_btn_down.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_lived_4.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_lived_4.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_face.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\face.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_bkg_1.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_bkg_1.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw480dp-port_osd_face.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw480dp-port\\osd_face.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_osd_result_top.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_osd_result_top.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_camera_err.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_camera_err.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_login.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_logger_btn_bkg.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\logger_btn_bkg.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_logger_btn_bkg2.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\logger_btn_bkg2.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_logger_btn_data.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\logger_btn_data.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_passwd2.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\setup_btn_passwd2.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_network.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\setup_btn_network.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_lived_3.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_lived_3.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_logger.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\main_btn_logger.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_logger.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\logger.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw480dp_osd.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw480dp\\osd.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_osd_tips.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_osd_tips.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw240dp-port_osd.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw240dp-port\\osd.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_sdt_view.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\sdt_view.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_cross.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_cross.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw240dp-port_osd_face.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw240dp-port\\osd_face.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_face_lived_0.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\face_lived_0.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout_setup.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_osd_result_blue.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_osd_result_blue.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw480dp-port_osd_sid.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw480dp-port\\osd_sid.xml"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\drawable_sdt_osd_photo_blue.png.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\drawable\\sdt_osd_photo_blue.png"
+    },
+    {
+        "merged": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\merged_res\\debug\\layout-sw480dp-port_osd.xml.flat",
+        "source": "D:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\src\\main\\res\\layout-sw480dp-port\\osd.xml"
+    }
+]

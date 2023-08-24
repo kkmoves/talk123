@@ -1,0 +1,220 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dnake.panel"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="11"
+8-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:8:9-35
+9        android:targetSdkVersion="19" />
+9-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:9:9-38
+10
+11    <uses-feature android:name="android.hardware.wifi" />
+11-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:11:5-58
+11-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:11:19-55
+12
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:13:5-67
+13-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:13:22-64
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:14:5-68
+14-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:14:22-65
+15    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+15-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:15:5-75
+15-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:15:22-72
+16    <uses-permission android:name="android.permission.READ_CONTACTS" />
+16-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:16:5-72
+16-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:16:22-69
+17    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+17-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:17:5-73
+17-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:17:22-70
+18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+18-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:18:5-81
+18-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:18:22-78
+19    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+19-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:19:5-72
+19-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:19:22-69
+20    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
+20-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:20:5-73
+20-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:20:22-70
+21    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+21-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:21:5-73
+21-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:21:22-70
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:22:5-81
+22-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:22:22-78
+23    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+23-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:23:5-78
+23-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:23:22-75
+24    <uses-permission android:name="android.permission.GET_TASKS" />
+24-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:24:5-68
+24-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:24:22-65
+25    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+25-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:25:5-80
+25-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:25:22-77
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:26:5-76
+26-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:26:22-73
+27    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+27-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:27:5-76
+27-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:27:22-73
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:28:5-79
+28-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:28:22-76
+29    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+29-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:29:5-79
+29-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:29:22-76
+30    <uses-permission android:name="android.permission.BLUETOOTH" />
+30-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:30:5-68
+30-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:30:22-65
+31    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+31-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:31:5-74
+31-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:31:22-71
+32
+33    <permission android:name="android.permission.SDT_DETECT" />
+33-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:33:5-64
+33-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:33:17-61
+34
+35    <uses-permission android:name="android.permission.SDT_DETECT" />
+35-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:35:5-69
+35-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:35:22-66
+36
+37    <permission
+37-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:37:5-39:44
+38        android:name="com.dnake.misc.SysTalk"
+38-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:38:9-46
+39        android:protectionLevel="normal" />
+39-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:39:9-41
+40
+41    <application
+41-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:41:5-109:19
+42        android:allowBackup="true"
+42-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:42:9-35
+43        android:debuggable="true"
+44        android:hardwareAccelerated="true"
+44-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:43:9-43
+45        android:icon="@drawable/ic_launcher"
+45-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:44:9-45
+46        android:label="@string/app_name"
+46-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:45:9-41
+47        android:testOnly="true" >
+48        <meta-data
+48-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:46:9-48:35
+49            android:name="android.max_aspect"
+49-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:47:13-46
+50            android:value="2.4" />
+50-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:48:13-32
+51
+52        <service
+52-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:50:9-58:19
+53            android:name="com.dnake.misc.SysTalk"
+53-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:51:13-50
+54            android:enabled="true"
+54-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:52:13-35
+55            android:exported="true"
+55-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:53:13-36
+56            android:permission="com.dnake.misc.SysTalk" >
+56-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:54:13-56
+57            <intent-filter>
+57-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:55:13-57:29
+58                <action android:name="com.dnake.misc.SysTalk" />
+58-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:56:17-65
+58-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:56:25-62
+59            </intent-filter>
+60        </service>
+61
+62        <receiver android:name="com.dnake.misc.SysReceiver" >
+62-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:60:9-67:20
+62-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:60:19-60
+63            <intent-filter>
+63-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:61:13-63:29
+64                <action android:name="android.intent.action.BOOT_COMPLETED" />
+64-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:62:17-79
+64-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:62:25-76
+65            </intent-filter>
+66            <intent-filter>
+66-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:64:13-66:29
+67                <action android:name="com.dnake.broadcast" />
+67-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:65:17-62
+67-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:65:25-59
+68            </intent-filter>
+69        </receiver>
+70
+71        <activity
+71-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:69:9-78:20
+72            android:name="com.dnake.panel.MainActivity"
+72-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:70:13-56
+73            android:launchMode="singleTask"
+73-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:71:13-44
+74            android:theme="@style/v900" >
+74-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:72:13-40
+75            <intent-filter>
+75-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:73:13-77:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:74:17-69
+76-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:74:25-66
+77
+78                <category android:name="android.intent.category.LAUNCHER" />
+78-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:76:17-77
+78-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:76:27-74
+79            </intent-filter>
+80        </activity>
+81        <activity
+81-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:79:9-83:20
+82            android:name="com.dnake.panel.TalkLabel"
+82-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:80:13-53
+83            android:launchMode="singleTask"
+83-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:81:13-44
+84            android:theme="@style/v900" >
+84-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:82:13-40
+85        </activity>
+86        <activity
+86-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:84:9-88:20
+87            android:name="com.dnake.panel.FaceLabel"
+87-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:85:13-53
+88            android:launchMode="singleTask"
+88-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:86:13-44
+89            android:theme="@style/v900" >
+89-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:87:13-40
+90        </activity>
+91        <activity
+91-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:89:9-93:20
+92            android:name="com.dnake.panel.SDTLoggerLabel"
+92-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:90:13-58
+93            android:launchMode="singleTask"
+93-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:91:13-44
+94            android:theme="@style/v900" >
+94-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:92:13-40
+95        </activity>
+96        <activity
+96-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:94:9-98:20
+97            android:name="com.dnake.panel.SDTErrLabel"
+97-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:95:13-55
+98            android:launchMode="singleTask"
+98-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:96:13-44
+99            android:theme="@style/v900" >
+99-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:97:13-40
+100        </activity>
+101        <activity
+101-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:99:9-103:20
+102            android:name="com.dnake.panel.SDTViewLabel"
+102-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:100:13-56
+103            android:launchMode="singleTask"
+103-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:101:13-44
+104            android:theme="@style/v900" >
+104-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:102:13-40
+105        </activity>
+106        <activity
+106-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:104:9-108:20
+107            android:name="com.dnake.panel.SetupLabel"
+107-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:105:13-54
+108            android:launchMode="singleTask"
+108-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:106:13-44
+109            android:theme="@style/v900" >
+109-->D:\NQIV\20230720-NB1304-BOX-SMS\app\src\main\AndroidManifest.xml:107:13-40
+110        </activity>
+111    </application>
+112
+113</manifest>

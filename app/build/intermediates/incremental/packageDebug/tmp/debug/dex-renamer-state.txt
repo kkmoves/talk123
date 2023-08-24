@@ -1,0 +1,4 @@
+#Fri Jul 21 09:12:03 CST 2023
+base.0=D\:\\NQIV\\20230720-NB1304-BOX-SMS\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
